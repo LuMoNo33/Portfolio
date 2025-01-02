@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Test 2
 ---
 
-Test 1. Seems difficult
+Where is the full preview? 
