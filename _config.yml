@@ -58,15 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Luis Montoya Nogami"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Aerospace Enthusiast"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
