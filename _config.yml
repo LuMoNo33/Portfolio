@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Luis Montoya Nogami"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/PFP-SideF2.jpg"
   bio    : "Aerospace Enthusiast"
   links:
     - label: "Linked In"
@@ -73,7 +73,7 @@ footer:
     - label: "Linked In"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lumono/"
-    
+    - #feed: false
 
 defaults:
   # _posts
@@ -85,7 +85,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
