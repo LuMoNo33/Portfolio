@@ -13,6 +13,12 @@ share: false
 ---
 
 
+
+This paper in spanish highlits the aircraft we built for the SAE Aerodesign competition:
+
+<iframe src="https://drive.google.com/file/d/1vo8QFxXBPix2lHG2Hq8uh--GzsoYhQrl/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 As part of the student group Monterrey Rocket Lab, we design, manufacture and fly rockets with our own SRAD motors. This paper showcases the manufacturing process of the Amonium Nitrate composite propellant L1101 motor: 
 
 <iframe src="https://drive.google.com/file/d/1R0cWQDTerI-DkS9Zb36gLiMsLROPRp8E/preview" width="640" height="480" allow="autoplay"></iframe>
