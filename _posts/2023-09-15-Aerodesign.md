@@ -2,16 +2,18 @@
 title: "Aerodesign Aerodynamics Engineer"
 date: 2024-06-15T15:34:30-04:00
 categories:
-  - blog
+  - Engineering Project
 tags:
-  - NN
-  - Neural Network
-  - Data Science
+  - Aerodynamics
+  - CFD
+  - Design & Manufacture
 
 
 share: false
 ---
 
+
+As part of the team participating in SAE Aerodesign, I was in charge of wing optimization.
 
 
 This paper in spanish highlits the aircraft we built for the SAE Aerodesign competition:
