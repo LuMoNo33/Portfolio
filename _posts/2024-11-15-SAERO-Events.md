@@ -51,7 +51,7 @@ The winning team proposed the use of the fungus Cladosporium sphaerospermum to d
 
 We have also hosted panels with industry experts, featuring distinguished guests such as Ulises Chavez from Blue Origin, Dr. Paulo Lozano from the MIT Space Propulsion Laboratory, and Fernando Mier-Hicks, currently working at NASA’s Jet Propulsion Laboratory (JPL). These speakers shared their personal stories and career paths, as well as their insights on critical topics, including climate change, Mexican policy reforms, space colonization, and much more.
 
-<img src="{{ site.baseurl }}/assets/images/ExatecInAerospacePost.jpg" alt="Imagen 2" width="550" />
+<img src="{{ site.baseurl }}/assets/images/ExatecInAerospacePost.JPG" alt="Imagen 2" width="550" />
 *Instagram Story posted by [Ingenierías Tec][Ingenierias-tec]*
 
 This semester, we plan to offer multi-day rocketry workshops where participants will build their own rockets. No prior knowledge is required, as the workshops will provide all necessary guidance and equipment, supported by the institution's laboratories. After customizing their rockets and using pre-purchased motors, we will travel to Marte, Coahuila, where we have permits to launch and successfully recover them. This activity will allow participants to obtain their Tripoli Level 1 (L1) certification.
@@ -68,4 +68,6 @@ This semester, we plan to offer multi-day rocketry workshops where participants 
 Additionally, we will host competitions similar to Mission Mars, now in collaboration with feminist groups from Tecnológico de Monterrey. To encourage diversity and inclusion, participation will require teams of three to be mixed-gender, including at least one man and one woman. The goal is to inspire and empower women in science, particularly in the aerospace field.
 
 <iframe src="https://drive.google.com/file/d/1PZKh1iZg52u14cBOZRwRmf4ngLaXIEoH/preview" width="640" height="480" allow="autoplay"></iframe>
+*Hack4Her Hackathon in Collaboration with SAERO*
+
 [Ingenierias-tec]: https://www.instagram.com/ingenieriastec?igsh=MWhtZjFzbHM3MnB2Yg==
