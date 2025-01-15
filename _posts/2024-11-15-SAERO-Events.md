@@ -26,10 +26,10 @@ Memories from these events are highlighted below:
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGcJ6zXX9Q/AXDX9QB-XdoK-YmOWekqoA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https://www.canva.com/design/DAGcNzbNHqQ/zcHUGbQZo-NSqY99Ucpg6A/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGcJ6zXX9Q&#x2F;AXDX9QB-XdoK-YmOWekqoA&#x2F;view?utm_content=DAGcJ6zXX9Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Event projects</a> de Luis Eduardo Montoya Nogami
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGcNzbNHqQ&#x2F;zcHUGbQZo-NSqY99Ucpg6A&#x2F;view?utm_content=DAGcNzbNHqQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Event Projects</a> 
 
 We organized our congress, Altitude, which reached an audience of over 200 participants, including high school students, college students, and professionals. In collaboration with the Monterrey Aerocluster, we created a platform for experts in the aerospace sector to discuss topics such as innovation in the Mexican space industry, women leaders in the field, the impact of companies like Frisa, Bell, and Viva Aerobus, the start-up ecosystem in Mexico, and the future of aviation.
 
