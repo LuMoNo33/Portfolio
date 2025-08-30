@@ -17,9 +17,7 @@ title: Luis Montoya Nogami Portfolio
 email: nogami@tec.mx
 baseurl: "/Portfolio"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Currently doing my B.S. Engineering Physics, this is the portfolio containing many of my engineering projects and leadership activities. I hope you like it. More projects can be found in the "All projects" section
 twitter_username: username
 github_username: lumono33
 minimal_mistakes_skin: dark
