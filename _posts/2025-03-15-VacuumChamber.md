@@ -1,8 +1,8 @@
 ---
-title: "Design of a Vacuum Chamber"
+title: "Custom Vacuum Chamber for Nanomaterial Characterization"
 date: 2025-03-15T15:34:30-04:00
 categories:
-  - engineering project
+  - Engineering Project
 tags:
   - Material Characterization
   - Design & Manufacture
