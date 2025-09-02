@@ -78,7 +78,7 @@ To achieve higher vacuum levels, gasket selection was crucial: frequently access
 <table>
   <tr>
     <td><img src="{{ site.baseurl }}/assets/images/VTopLid.png" alt="Imagen 1" width="460" /></td>
-    <td><img src="{{ site.baseurl }}/assets/images/VbottomLid.png" alt="Imagen 3" width="450" /></td>
+    <td><img src="{{ site.baseurl }}/assets/images/VBottomLid.png" alt="Imagen 3" width="450" /></td>
   </tr>
 </table>
 *Top lid with O-ring gasket and bottom lid with CF copper gasket*
